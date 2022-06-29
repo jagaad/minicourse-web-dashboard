@@ -12,6 +12,56 @@ This mini-course present how to create a application dashboard from scratch usin
 
 The mini-course starts by presenting how to set up the environment (on Macos). Then, it goes through understanding the idea of a web page, HTML / CSS / JavaScript basics, and creating a simple component using HTML / CSS. Finally, we'll move everything to JavaScript land that will allow us to be more dynamic and use all language functionalitties.
 
+<details>
+<summary>Curriculum</summary>
+
+- Intro
+- Environment Setup
+  - Node / NPM / NPX
+  - VS Code
+- Creating a first page
+  - Using simple index.html
+  - Starting a local server
+- Basics of HTML / CSS / JavaScript
+  - HTML Elements structure
+  - CSS rules structure
+  - Simple browser APIs
+- JavaScript variables
+  - Strings
+  - Numbers
+  - Booleans
+  - Arrays (set, get)
+  - Objects (set, get)
+  - No values
+  - Operators
+- JavaScript Loops
+  - for
+  - for in
+  - for of
+  - while
+- JavaScript Conditionals
+  - if / else
+  - switch
+- JavaScript Functions
+  - Argument Destructuring
+- JavaScript Array functions
+- JavaScript Modules
+- Figma Design
+  - Chose Dashboard
+  - Design Slicing
+  - CSS Normalize
+  - Prepare font
+  - Add global colors
+- Creating Dashboard
+  - Middle
+    - Big Card
+    - Small Card
+  - Right
+    - Square Card
+    - Week Chart
+
+</details>
+
 ## Tools
 
 Tools installed at the beginning of the mini-course:

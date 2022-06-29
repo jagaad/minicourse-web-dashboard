@@ -1,0 +1,15 @@
+.app {
+  display: grid;
+  grid-template-columns: auto auto;
+  min-height: 100vh;
+}
+
+.app > * {
+  padding: 20px;
+}
+
+.app > main {
+  border-right: 2px solid #f0f0f0;
+  border-top: none;
+  border-bottom: none;
+}

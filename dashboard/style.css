@@ -1,0 +1,15 @@
+@import url("components/LocationCard.css");
+@import url("components/PlanningCard.css");
+@import url("components/TwoColumns.css");
+@import url("components/StatsCard.css");
+@import url("components/WeeklyChart.css");
+@import url("components/App.css");
+
+html {
+  --color-blue: #369fff;
+  --color-dark-blue: #006ed3;
+}
+
+body {
+  font-family: Manrope;
+}
